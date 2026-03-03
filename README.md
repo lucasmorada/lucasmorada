@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Lucas Dias 👋</h1>
+ <h1 align="center">Hi, I'm Lucas Dias</h1>
 
 <p align="center">
   Software Engineering Student 🇧🇷 <br>
@@ -11,7 +11,7 @@ Focused on building clean and modern web experiences.
 
 ---
 
-## ⚡ Stats
+##  Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmorada&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -20,7 +20,7 @@ Focused on building clean and modern web experiences.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -32,7 +32,7 @@ Focused on building clean and modern web experiences.
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucasmorada&theme=tokyonight&no-frame=true&margin-w=10"/>

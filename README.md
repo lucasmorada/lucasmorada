@@ -1,17 +1,13 @@
-Lucas
+  Hi! I'm Lucas Dias
 
-
-  Web Developer  
-  Systems Analysis & Development Student  
-  Brazil 🇧🇷
-
-
+  I'm a brazilian software engeneer student!
+  
+  Java | Cybersecurity | JavaScript | 
+  SQL | NODE | Web Development | API
+  
 ---
 
 Focused on building clean and modern web experiences.  
-Fluent in English.  
-Former exchange student in Canada.
 
 ---
 
-HTML • CSS • JavaScript • Git

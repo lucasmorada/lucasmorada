@@ -32,6 +32,8 @@ I'm constantly learning new technologies and developing practical projects that 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
+---
+
 ### Interests
 
 * Full Stack Development
@@ -39,15 +41,6 @@ I'm constantly learning new technologies and developing practical projects that 
 * Data Science
 * Responsive Web Design
 * Software Engineering
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasmorada&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmorada&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 

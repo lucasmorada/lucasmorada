@@ -1,41 +1,61 @@
- <h1 align="center">Hi, I'm Lucas Dias</h1>
+<h1 align="center">Lucas Siqueira</h1>
 
 <p align="center">
-  Software Engineering Student 🇧🇷 <br>
-  Java • Cybersecurity • JavaScript • Node • SQL
+Software Engineering Student • IT Support • Full Stack Development • Cybersecurity
 </p>
 
 ---
 
-Focused on building clean and modern web experiences.
+## About Me
+
+I'm a Software Engineering student at Universidade Positivo and currently work in IT Support.
+
+I enjoy building modern web applications, creating intuitive user experiences, and solving technical problems. My main areas of interest include Full Stack Development, Data Science, Cybersecurity, and software architecture.
+
+I'm constantly learning new technologies and developing practical projects that strengthen both my programming and problem solving skills.
 
 ---
 
-##  Stats
+## Tech Stack
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+### Interests
+
+* Full Stack Development
+* Cybersecurity
+* Data Science
+* Responsive Web Design
+* Software Engineering
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmorada&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmorada&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasmorada&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmorada&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-##  Tech Stack
+## Currently
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000?style=for-the-badge&logo=hackthebox"/>
-</p>
+* Building new projects for my portfolio
+* Studying Software Engineering
+* Improving my knowledge in Cybersecurity
+* Learning more about Data Science and Java
 
 ---
-
-##  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasmorada&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
-

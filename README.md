@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Siqueira</h1>
 
 <p align="center">
-Software Engineering Student • IT Support • Full Stack Development • Cybersecurity
+Software Engineering Student • IT Support • Full Stack Development 
 </p>
 
 ---

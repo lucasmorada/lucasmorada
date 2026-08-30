@@ -26,13 +26,23 @@ lucasmorada@github
 
 ──────────────────────────────────────
 
-Hi, I'm Lucas!
+Hi, I'm Lucas Dias
 
-I'm a Software Engineering student at Universidade Positivo and currently work in IT Support.
+I'm a Software Engineering student and currently work in IT Support.
+I enjoy building modern web applications, creating intuitive user 
+experiences, and solving technical problems.
 
-I enjoy building modern web applications, creating intuitive user experiences, and solving technical problems. My main areas of interest include Full Stack Development, Data Science, Cybersecurity, and software architecture.
+My main areas of interest include Full Stack Development, Data Science,
+Cybersecurity, and software architecture.
 
-I'm constantly learning new technologies and developing practical projects that strengthen both my programming and problem solving skills.
+I'm constantly learning new technologies and developing practical 
+projects that strengthen both my programming and problem solving skills.
+
+Contact:
+Email:   lucasgab.siqueira@gmail.com
+GitHub:  github.com/lucasmorada
+
+
 ```
 
 </td>
@@ -71,29 +81,6 @@ I'm constantly learning new technologies and developing practical projects that 
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
-
----
-
-## `> about_me`
-
-```yaml
-name: Lucas Dias
-
-username: lucasmorada
-
-area:
-  - Software Development
-  - Full Stack Development
-  - Web Development
-  - Data Science
-
-interests:
-  - building useful software
-  - backend architecture
-  - web applications
-  - systems and infrastructure
-  - automation
-```
 
 ---
 
@@ -152,43 +139,29 @@ Freelance marketplace platform designed to connect independent professionals wit
 </table>
 
 ---
-
-## `> github_activity`
+## `> contact`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lucasmorada&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `> contact`
-
-<p align="center">
-
 <a href="https://www.linkedin.com/in/lucasdiassiqueira/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/lucasmorada" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-lucasmorada-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:lucasgab.siqueira@gmail.com">
-  <img src="https://img.shields.io/badge/Email-lucasgab.siqueira%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/diaswzj/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%40diaswzj-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</p>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`code • learn • build • repeat`
+`Crie Sem Direito de Retorno!`
 
 </div>
+

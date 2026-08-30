@@ -4,7 +4,7 @@
 Software Engineering Student • IT Support • Full Stack Development 
 </p>
 
----
+--
 
 ## About Me
 

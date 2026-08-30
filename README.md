@@ -28,20 +28,16 @@ lucasmorada@github
 
 Hi, I'm Lucas Dias
 
-I'm a Software Engineering student and currently work in IT Support.
-I enjoy building modern web applications, creating intuitive user 
-experiences, and solving technical problems.
+I'm a Software Engineering student and currently work in
+IT Support. I build web applications and enjoy turning
+ideas into practical and intuitive digital experiences.
 
-My main areas of interest include Full Stack Development, Data Science,
-Cybersecurity, and software architecture.
+My main interests include Full Stack Development,
+Data Science, Cybersecurity, and software architecture.
 
-I'm constantly learning new technologies and developing practical 
-projects that strengthen both my programming and problem solving skills.
-
-Contact:
-Email:   lucasgab.siqueira@gmail.com
-GitHub:  github.com/lucasmorada
-
+I'm always exploring new technologies and building
+projects that sharpen my technical and problem solving
+skills.
 
 ```
 

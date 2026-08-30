@@ -2,7 +2,7 @@
 
 # `lucasmorada@github`
 
-### Software Engineering Student • IT Support • Full Stack Development
+### Software Engineering Student • Full Stack Development
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&center=true&vCenter=true&width=620&lines=building+things+with+code.;web+%2F+backend+%2F+systems.;always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -28,9 +28,9 @@ lucasmorada@github
 
 Hi, I'm Lucas Dias
 
-I'm a Software Engineering student and currently work in
-IT Support. I build web applications and enjoy turning
-ideas into practical and intuitive digital experiences.
+I'm a Software Engineering student and currently work with
+Full Stack Development. I build web applications and enjoy
+turning ideas into practical digital experiences.
 
 My main interests include Full Stack Development,
 Data Science, Cybersecurity, and software architecture.

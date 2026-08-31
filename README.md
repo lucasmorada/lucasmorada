@@ -15,7 +15,7 @@
 
 <td width="44%" align="center">
 
-<img src="./assets/profile.gif" width="390" alt="profile animation"/>
+<img src="./assets/download.jfif" width="390" alt="profile animation"/>
 
 </td>
 

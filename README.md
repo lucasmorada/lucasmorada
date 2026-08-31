@@ -157,7 +157,7 @@ Freelance marketplace platform designed to connect independent professionals wit
 
 <br><br>
 
-`Crie Sem Direito de Retorno!`
+`Crie Sem Direito de Retorno! SDG.`
 
 </div>
 

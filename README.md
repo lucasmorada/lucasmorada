@@ -15,7 +15,7 @@
 
 <td width="44%" align="center">
 
-<img src="./assets/Generative planet made in Touchdesigner.jfif" width="390" alt="profile animation"/>
+<img src="./assets/profile.gif" width="390" alt="profile animation"/>
 
 </td>
 

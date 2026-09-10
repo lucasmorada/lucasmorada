@@ -139,35 +139,25 @@ Freelance marketplace platform designed to connect independent professionals wit
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucasdiassiqueira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/lucasdiassiqueira/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://github.com/lucasmorada" target="_blank"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/lucasmorada" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<a href="mailto:lucasgab.siqueira@gmail.com"> <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:lucasgab.siqueira@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<a href="https://www.instagram.com/diaswzj/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+<a href="https://www.instagram.com/diaswzj/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <br><br>
 
-<table> <tr> <td width="600">
-
-<div align="left">
-
-<span style="color:#8B5CF6;">●</span>
-<span style="color:#8B5CF6;">●</span>
-<span style="color:#8B5CF6;">●</span>
-
-<br>
-
-<font size="6" color="#8B5CF6"><b>/></b></font>
-
-<br>
-
-Crie Sem Direito de Retorno! SDG.
-
-</div>
-
-</td> </tr> </table>
+`Crie Sem Direito de Retorno! SDG.`
 
 </div>
 

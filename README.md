@@ -162,7 +162,7 @@ Freelance marketplace platform designed to connect independent professionals wit
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&cache_seconds=14400&v=46" />
     <source media="(prefers-color-scheme: light)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=light&cache_seconds=14400&v=46" />
-    <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&cache_seconds=14400&v=46" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
+    
   </picture>
 
 </div>

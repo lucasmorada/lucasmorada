@@ -135,11 +135,11 @@ Console based library management system developed in Java, applying object orien
 
 <td width="50%" valign="top">
 
-### Trampei
+### Weather Data Engineering Pipeline
 
-Freelance marketplace platform designed to connect independent professionals with potential clients and organize service opportunities.
+End-to-end data engineering pipeline designed to collect, transform, validate, and analyze weather data using public APIs and a structured data warehouse.
 
-**Stack:** React • Node.js • APIs • Database
+**Stack:** Python • PostgreSQL • Airflow • Docker • Power BI
 
 </td>
 
